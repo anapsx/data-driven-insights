@@ -26,7 +26,7 @@ Explorar e visualizar os dados de vendas para gerar insights que possam ajudar n
 
 ## 📁 Arquivos
 
-- `data_driven_insights_corrigido.ipynb` → Notebook com todas as análises
+- `data_driven_insights_01.ipynb` → Notebook com todas as análises
 
 ## 🧠 Aprendizados
 
